@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="11b0abcc-c912-42d2-9ac3-7b9a8edc1ce0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/OperatorExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinearEquationResolver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +83,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656646979042</updated>
-      <workItem from="1656646980226" duration="2232000" />
+      <workItem from="1656646980226" duration="3066000" />
     </task>
     <servers />
   </component>
