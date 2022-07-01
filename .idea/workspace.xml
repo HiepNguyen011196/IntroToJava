@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="11b0abcc-c912-42d2-9ac3-7b9a8edc1ce0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/VariableDateType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OperatorExpression.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +44,14 @@
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.VariableDateType">
+  <component name="RunManager" selected="Application.OperatorExpression">
+    <configuration name="OperatorExpression" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OperatorExpression" />
+      <module name="IntroToJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SystemTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SystemTime" />
       <module name="IntroToJava" />
@@ -62,6 +68,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OperatorExpression" />
         <item itemvalue="Application.VariableDateType" />
         <item itemvalue="Application.SystemTime" />
       </list>
@@ -75,7 +82,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656646979042</updated>
-      <workItem from="1656646980226" duration="1687000" />
+      <workItem from="1656646980226" duration="2232000" />
     </task>
     <servers />
   </component>
