@@ -19,7 +19,7 @@ public class LinearEquationResolver {
 
         if(a != 0) {
             double answer = (c - b) / a;
-            System.out.println("Equation pass with x = %f!\n", answer);
+            System.out.println("Equation pass with x = " + answer);
         } else {
             if (b == c) {
                 System.out.println("The solution is all x!");
